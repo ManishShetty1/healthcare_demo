@@ -4,4 +4,11 @@ include: "/simplified_views/*"
 view: realtime_observations {
   sql_table_name: healthcare_demo_live.realtime_observation ;;
   extends: [observation_vitals]
+  
+  
+  
+  
+  
+  
+  
 }
